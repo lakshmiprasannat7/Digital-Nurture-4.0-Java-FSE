@@ -1,0 +1,5 @@
+03:14:12.185 [main] ERROR LoggingExample - This is an error message
+03:14:12.187 [main] WARN  LoggingExample - This is a warning message
+03:15:18.370 [main] DEBUG AppenderExample - This goes to both console and file
+03:15:42.716 [main] INFO  ParameterizedLogging - User Mowa has logged in with age 21
+03:17:00.748 [main] INFO  ParameterizedLogging - User Human has logged in with age 21
