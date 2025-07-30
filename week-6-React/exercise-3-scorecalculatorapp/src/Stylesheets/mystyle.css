@@ -1,0 +1,19 @@
+.container {
+  background-color: #f0f8ff;
+  border: 2px solid #007bff;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 30px;
+  text-align: left;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.container h2 {
+  color: #007bff;
+}
+
+.container p {
+  font-size: 16px;
+  line-height: 1.6;
+}
